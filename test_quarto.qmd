@@ -1,7 +1,7 @@
 ---
 title: "test_quarto"
 format: html
-author: alyssa visual
+author: alyssa
 ---
 
 ## Quarto

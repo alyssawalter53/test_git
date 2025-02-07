@@ -1,6 +1,6 @@
 ---
 title: "test_quarto"
-format: html
+format: gfm
 author: "alyssa"
 ---
 
